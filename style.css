@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Add a different style to Tailwind
+nav ul li a {
+    @apply text-white font-semibold text-lg hover:text-secondary hover:underline hover:font-extrabold hover:transition-transform hover:scale-125;
+}
+*/
